@@ -44,7 +44,12 @@ The project consists of the following components:
     The ER Diagram is designed in Dia Diagram Editor.
 
     Open the .dia file in Dia to visualize the schema.
+7. View the Relational Schema:
 
+   The Relational Schema is desogned in Dia Diagram Editor.
+
+   Open the .dia file for detailed table relationships and attributes.
+   
 ---
 
 ## **📜 License**  
