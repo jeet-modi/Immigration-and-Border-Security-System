@@ -39,12 +39,12 @@ The project consists of the following components:
 3. **Run DDL Scripts** to set up tables and constraints.  
 4. **Execute DML Scripts** to populate sample data.  
 5. **Test the queries** for functionality.
-6. View the ER Diagram:
+6. **View the ER Diagram:**
 
     The ER Diagram is designed in Dia Diagram Editor.
 
     Open the .dia file in Dia to visualize the schema.
-7. View the Relational Schema:
+7. **View the Relational Schema:**
 
    The Relational Schema is desogned in Dia Diagram Editor.
 
