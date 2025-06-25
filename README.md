@@ -1,6 +1,3 @@
-Here's a polished and comprehensive **README.md** for your **Immigration and Border Security System** project:
-
----
 
 # **Immigration and Border Security System**  
 ### **Database Management System (DBMS) Course Project**  
